@@ -1,3 +1,3 @@
 <html>
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+<img src="https://github.com/Pranav7038/Pranav7038/assets/103091616/06af831b-c6c9-45eb-9c52-ba286182f904" alt="my banner">
 </html>
