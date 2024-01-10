@@ -34,7 +34,8 @@
 <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
-<img alt="profile view" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
+give me the profile view markdown badge link 
+
 </p>
 <h2>GitHub stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Pranav7038&show_icons=true&theme=radical" alt="Pranav7038" />
@@ -46,6 +47,7 @@
 <p><a href="mailto:Kshirsagarpranav060@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </p>
+<img alt="watchers" src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg"/>
 </body>
 </html>
 
