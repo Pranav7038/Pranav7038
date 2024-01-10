@@ -12,7 +12,18 @@
 <h2>🔭I'm currently working on </h2>
 <ul>
 <li>My old Projects</li>
-
+<li>Andriod app</li>
+<li>responsive websites </li>
+</ul>
+<br>
+<h2>🙎‍♂️I'm currently learning </h2>
+<ul>
+<li>💻JavaScript Frameworks</li>
+<li>Firebase</li>
+<li>Java Data Structure</li>
+</ul><br>
+<h2>💼Technical Skills</h2>
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 </p>
 </body>
 </html>
