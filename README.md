@@ -22,9 +22,7 @@
 </ul>
 <h2>💼Technical Skills</h2>
 <p>
-<img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></p><p>
 <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,6 +40,25 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pranav7038&show_icons=true&theme=radical" alt="Pranav7038" />
 <h2>Top Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&theme=radical" alt="Pranav7038" />
+<h2>📫How to reach me:</h2>
+<p><a href="mailto:Kshirsagarpranav060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+
+<h2>📊My Contribution Graph</h2>
+<p align="center">
+<a href="
+https://github.com/Pranav7512/Pranav751"
+<img src="https://activity-graph.herokuapp.com/graph?username=Pranav7038&theme=react-dark&hide_border=true"/>
+</a>
+</p>
+<h2>📊My Streak Stats</h2>
+<p align="center">
+<a href=" 
+http://www.productivitycalendar.net/user/Pranav7038">
+
+<img src="http://www.productivitycalendar.net/graph/Pranav7038"/>
+</a>
+</p>
 </body>
 </html>
 
