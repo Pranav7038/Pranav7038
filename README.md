@@ -9,7 +9,7 @@
 <h3>🤝Connect with me:</h3>
 <a href="https://www.linkedin.com/in/pranav-kshirsagar-3a204823a/"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/linkedin.svg" alt="icon/linkedin" width="21px"/></a>
 <a href="https://www.instagram.com/pranav8289"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/instagram.svg" alt="icon/instagram" width="21px"/></a><br>
-<h3>🔭I'm currently working on 
+<h2>🔭I'm currently working on </h2>
 <ul>
 <li>My old Projects</li>
 
