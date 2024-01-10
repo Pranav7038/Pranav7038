@@ -1,6 +1,6 @@
 <html>
 <body>
-<img src="https://github.com/Pranav7038/Pranav7038/assets/103091616/9e1f8ed9-0297-4b54-b1de-46610907e98e" alt="my banner">
+<img src="https://github.com/Pranav7038/Pranav7038/assets/103091616/19b3221a-4363-499d-803a-2390af46303e" alt="my banner">
 <h3>Hi there👋</h3>
 <h2>👨‍💻About Me: </h2>
 <h4>👨‍🎓I am Pranav, a 2nd year student at <a href="https://ghrcem.raisoni.net/">GHRCEM Pune</a> pursuing B.Tech in Computer Science and Artificial Intelligence.👨‍💻I'm committed to excelling as a programmer, striving to become the best in the field.</h4>
