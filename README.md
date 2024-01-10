@@ -39,23 +39,10 @@
 <h2>GitHub stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Pranav7038&show_icons=true&theme=radical" alt="Pranav7038" />
 <h2>Top Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&theme=radical" alt="Pranav7038" />
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav7038)](https://github.com/Pranav7038/github-readme-stats)">
 <h2>📫How to reach me:</h2>
 <p><a href="mailto:Kshirsagarpranav060@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
-
-<h2>📊My Contribution Graph</h2>
-<p align="center">
-<a href="https://github.com/Pranav7512/Pranav751">
-<img src="https://activity-graph.herokuapp.com/graph?username=Pranav7038&theme=react-dark&hide_border=true"/>
-</a>
-</p>
-<h2>📊My Streak Stats</h2>
-<p align="center">
-<a href=" 
-http://www.productivitycalendar.net/user/Pranav7038">
-<img src="http://www.productivitycalendar.net/graph/Pranav7038"/>
-</a>
 </p>
 </body>
 </html>
