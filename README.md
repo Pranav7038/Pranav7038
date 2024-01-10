@@ -7,7 +7,7 @@
 <h4>👨‍🎓I am Pranav, a 2nd year student at <a href="https://ghrcem.raisoni.net/">GHRCEM Pune</a> pursuing B.Tech in Computer Science and Artificial Intelligence.</h4>
 <h4>👨‍💻I'm committed to excelling as a programmer, striving to become the best in the field.</h4>
 <h3>🤝Connect with me:</h3>
-<a href="https://www.linkedin.com/in/pranav-kshirsagar-3a204823a/"><img align="left" src="D:/Github/Pranav7038/images/instagram.svg" alt="icon/lnkedin" width="21px"/></a>
+<a href="https://www.linkedin.com/in/pranav-kshirsagar-3a204823a/"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/instagram.svg" alt="icon/Instagram" width="21px"/></a>
 </p>
 </body>
 </html>
