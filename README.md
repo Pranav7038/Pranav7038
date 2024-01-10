@@ -44,9 +44,10 @@
 <h2>📫How to reach me:</h2>
 <p><a href="mailto:Kshirsagarpranav060@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
-</p>
+</p><p>
 <img alt="watchers" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+</p>
 </body>
 </html>
 
