@@ -1,6 +1,6 @@
-<html>
+<!--<html>
 <body>
- <!--<img src="https://github.com/Pranav7038/Pranav7038/assets/103091616/06af831b-c6c9-45eb-9c52-ba286182f904" alt="my banner">...-->
+ <img src="https://github.com/Pranav7038/Pranav7038/assets/103091616/06af831b-c6c9-45eb-9c52-ba286182f904" alt="my banner">
 <p align="center">
 <h3>Hi there👋</h3>
 <h2>👨‍💻About Me: </h2>
@@ -40,3 +40,4 @@
 </p>
 </body>
 </html>
+...-->
