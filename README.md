@@ -10,15 +10,16 @@
 <a href="https://www.instagram.com/pranav8289"><img align="left" src="https://raw.githubusercontent.com/Pranav7038/Pranav7038/main/images/instagram.svg" alt="icon/instagram" width="21px"/></a><br>
 <h2>🔭I'm currently working on </h2>
 <ul>
-<li>My old Projects</li>
-<li>Andriod app</li>
-<li>responsive websites </li>
+<li>🏆My old Projects</li>
+<li>📱Andriod app development</li>
+<li>🖥️Creating new websites using frameworks</li>
 </ul>
 <h2>🙎‍♂️I'm currently learning </h2>
 <ul>
 <li>💻JavaScript Frameworks</li>
-<li>Firebase</li>
-<li>Java Data Structure</li>
+<li>📑Firebase</li>
+<li>🌟Java Data Structure</li>
+<li>📊Git Technology</li>
 </ul>
 <h2>💼Technical Skills</h2>
 <p>
