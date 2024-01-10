@@ -10,7 +10,7 @@
 <h2>🔭I'm currently working on </h2>
 <ul>
 <li>🏆My old Projects</li>
-<li>📱Andriod app development</li>
+<li>📱Java Projects</li>
 <li>🖥️Creating new websites using frameworks</li>
 </ul>
 <h2>🙎‍♂️I'm currently learning </h2>
