@@ -46,8 +46,7 @@
 
 <h2>📊My Contribution Graph</h2>
 <p align="center">
-<a href="
-https://github.com/Pranav7512/Pranav751"
+<a href="https://github.com/Pranav7512/Pranav751">
 <img src="https://activity-graph.herokuapp.com/graph?username=Pranav7038&theme=react-dark&hide_border=true"/>
 </a>
 </p>
@@ -55,7 +54,6 @@ https://github.com/Pranav7512/Pranav751"
 <p align="center">
 <a href=" 
 http://www.productivitycalendar.net/user/Pranav7038">
-
 <img src="http://www.productivitycalendar.net/graph/Pranav7038"/>
 </a>
 </p>
