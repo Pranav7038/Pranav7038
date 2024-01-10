@@ -22,7 +22,8 @@
 <li>Java Data Structure</li>
 </ul>
 <h2>💼Technical Skills</h2>
-<img src="![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)" alt="Brave"/>
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 </body>
 </html>
