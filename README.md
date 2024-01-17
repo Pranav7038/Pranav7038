@@ -37,14 +37,14 @@
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <h2>GitHub stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav7038&show_icons=true&theme=radical" alt="Pranav7038" />
+<img src="https://camo.githubusercontent.com/8d4c187……6f773d3…" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Sharaneshwar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20" style="max-width: 100%;">
 <h2>Top Languages</h2>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&layout=donut">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&layout=donut">
 </a>
 <h2>📫How to reach me:</h2>
 <p><a href="mailto:Kshirsagarpranav060@gmail.com">
-<img src="https://camo.githubusercontent.com/8d4c187……6f773d3…" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Pranav7038&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20" style="max-width: 100%;">"/></a></p>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </p><p>
 <img alt="watchers" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
