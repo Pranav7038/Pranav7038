@@ -44,7 +44,7 @@
 </a>
 <h2>📫How to reach me:</h2>
 <p><a href="mailto:Kshirsagarpranav060@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<img src="https://camo.githubusercontent.com/8d4c187……6f773d3…" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Pranav7038&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20" style="max-width: 100%;">"/></a></p>
 </p><p>
 <img alt="watchers" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
