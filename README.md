@@ -37,7 +37,7 @@
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <h2>GitHub stats</h2>
-<img src="https://camo.githubusercontent.com/8d4c187……6f773d3…" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Sharaneshwar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav7038&show_icons=true&theme=radical" alt="Pranav7038" />
 <h2>Top Languages</h2>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&layout=donut">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav7038&layout=donut">
